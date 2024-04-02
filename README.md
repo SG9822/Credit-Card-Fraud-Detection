@@ -30,13 +30,13 @@ The dataset used in this project contains transactions made by European cardhold
 3. `README.md`: This file, providing an overview, approach, evaluation results, and instructions to run the code.
 
 **Instructions to Run:**
-1. Clone the repository: `git clone https://github.com/your_username/credit-card-fraud-detection.git`.
+1. Clone the repository: `git clone https://github.com/your_username/Credit-Card-Fraud-Detection.git`.
 2. Install required dependencies: `pip install -r requirements.txt`.
 3. Open and run `Credit Card Fraud Detection.ipynb` in Jupyter Notebook or any compatible environment.
 4. Ensure the dataset `creditcard.csv` is placed in the same directory as the notebook.
 
 **References:**
-- Dataset Source: [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- Dataset Source: [Kaggle]([https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud))
 - Python Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, imbalanced-learn.
 
 **Author:**
