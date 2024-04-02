@@ -36,7 +36,7 @@ The dataset used in this project contains transactions made by European cardhold
 4. Ensure the dataset `creditcard.csv` is placed in the same directory as the notebook.
 
 **References:**
-- Dataset Source: [Kaggle]([https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud))
+- Dataset Source: [Kaggle]([https://www.kaggle.com/mlg-ulb/creditcardfraud])
 - Python Libraries: pandas, numpy, seaborn, matplotlib, scikit-learn, imbalanced-learn.
 
 **Author:**
